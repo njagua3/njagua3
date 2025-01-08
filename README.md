@@ -1,4 +1,3 @@
-
 # Hi there, I'm Njagua 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and technology. Here's a bit about me and what I do:
@@ -43,7 +42,6 @@ Here are some of the projects I've been working on:
 
 - [LinkedIn](https://www.linkedin.com/in/njagua3)
 - [Twitter](https://twitter.com/njagua3)
-- [Email](njagua.gma@gmail.com)
+- [Email](mailto:njagua.gma@gmail.com)
 
 Thanks for visiting my profile! Feel free to reach out to collaborate or say hi. 😊
-
