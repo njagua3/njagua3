@@ -4,14 +4,14 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## About Me
 
-- 🔭 I’m currently working on [Your Current Project/Work]
-- 🌱 I’m currently learning [New Skills or Technologies]
+- 🔭 I’m currently working on https://njaguanyingi.netlify.app/
+- 🌱 I’m currently learning web3
 - 👯 I’m looking to collaborate on [Projects or Open Source Contributions]
 - 🤔 I’m looking for help with [Any Specific Area You Need Help With]
-- 💬 Ask me about [Your Areas of Expertise]
-- 📫 How to reach me: [Your Contact Information]
+- 💬 Ask me about [Vanilla Javascript, React JS, Figma]
+- 📫 How to reach me: njagua.gma@gmail.com
 - 😄 Pronouns: They/Them
-- ⚡ Fun fact: [A Fun Fact About You]
+- ⚡ Fun fact: I love Toyota MR2's
 
 ## Languages and Tools
 
@@ -30,9 +30,9 @@ Here are some of the languages and tools I work with:
 
 Here are some of the projects I've been working on:
 
-- [Project 1](https://github.com/njagua3/project1) - A brief description of Project 1.
-- [Project 2](https://github.com/njagua3/project2) - A brief description of Project 2.
-- [Project 3](https://github.com/njagua3/project3) - A brief description of Project 3.
+- [Project 1](https://njaguanyingi.netlify.app/) - My upwork portfolio.
+- [Project 2](https://github.com/njagua3/Daily-JS-EXPERIMENT) - A repo for daily Javascript learning.
+- [Project 3](https://github.com/njagua3/safiri-2.0) - A tours & travel website that is responsive on all devices.
 
 ## GitHub Stats
 
