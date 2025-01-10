@@ -37,6 +37,7 @@ Here are some of the projects I've been working on:
 - [PORTFOLIO](https://njaguanyingi.netlify.app/) - My upwork portfolio.
 - [JAVASCRIPT DAILY LEARNING](https://github.com/njagua3/Daily-JS-EXPERIMENT) - A repo for daily Javascript learning.
 - [SAFIRIKENYA](https://github.com/njagua3/safiri-2.0) - A tours & travel website that is responsive on all devices.
+- [Ringbelt Property Management](https://ringbeltagents.netlify.app/) - A Landing Page for Property Management Company.
 
 ## GitHub Stats
 
