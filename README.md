@@ -39,6 +39,7 @@ Here are some of the projects I've been working on:
 - [SAFIRIKENYA](https://github.com/njagua3/safiri-2.0) - A tours & travel website that is responsive on all devices.
 - [Ringbelt Property Management](https://ringbeltagents.netlify.app/) - A Landing Page for a Property Management Company.
 - [VaGi Fashion]() - An e-commerce web app for a fashion designer in Kenya.
+- [Moringa School Projects Tracker](https://moringaschool.netlify.app/) - A full-stack web app that keeps track of cohorts' projects.
 
 ## GitHub Stats
 
