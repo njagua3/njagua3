@@ -1,6 +1,6 @@
 # Are you bored? Play me!
 
-[![T-Rex Game](https://www.google.com/logos/fnbx/arcade/trex/3x/trex_offline_high_score.gif)](chrome://dino)
+[![T-Rex Game](https://njagua3.github.io/T-REX/)
 
 # Hi there, I'm Njagua 👋
 
