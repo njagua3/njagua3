@@ -1,3 +1,7 @@
+# Are you bored? Play me!
+
+[![T-Rex Game](https://www.google.com/logos/fnbx/arcade/trex/3x/trex_offline_high_score.gif)](chrome://dino)
+
 # Hi there, I'm Njagua 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves coding, collaborating, and learning about new technology. Here's a bit about me and what I do:
