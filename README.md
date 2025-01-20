@@ -1,6 +1,6 @@
-# Are you bored? Play me!
+## Are you bored? Play me!
 
-[![T-Rex Game](https://njagua3.github.io/T-REX/)
+[![T-Rex Game](https://img.shields.io/badge/Play-T--Rex%20Game-brightgreen)](https://njagua3.github.io/T-REX/)
 
 # Hi there, I'm Njagua 👋
 
